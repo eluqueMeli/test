@@ -41,4 +41,4 @@ jobs:
            # URL of the project to add issues to
           project-url: https://github.com/users/eluqueMeli/projects/1
           # A GitHub personal access token with write access to the project
-          github-token: ${{ secrets.Token_Project }}
+          github-token: ${{ secrets.TOKEN_PROJECT }}
