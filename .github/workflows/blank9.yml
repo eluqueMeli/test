@@ -16,5 +16,3 @@ jobs:
           # to the issue
           project-url: https://github.com/users/eluqueMeli/projects/1/views/1
           github-token: ${{ secrets.GIT_TOKEN }}
-          labeled: bug
-          label-operator: OR
