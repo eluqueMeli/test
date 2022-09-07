@@ -15,6 +15,7 @@ jobs:
           # You can target a repository in a different organization
           # to the issue
           project-url: https://github.com/users/eluqueMeli/projects/1/views/1
+          github-token: ${{ github.TOKEN_PROJECT }}
           labeled: bug
           label-operator: OR
         env:
